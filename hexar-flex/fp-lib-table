@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "flex-smd")(type "KiCad")(uri "${KIPRJMOD}/flex-smd.pretty")(options "")(descr ""))
+)
