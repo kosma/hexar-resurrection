@@ -113,7 +113,7 @@
         "max_error": 0.005,
         "min_clearance": 0.08,
         "min_connection": 0.08,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.01,
         "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.19999999999999998,
         "min_microvia_diameter": 0.19999999999999998,
@@ -203,7 +203,7 @@
           "drill": 0.5
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "layer_presets": [],
     "viewports": []
