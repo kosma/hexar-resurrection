@@ -12,6 +12,8 @@ This perpetual work in progress is centered around several aspects of the camera
 
 Use [KiCad](https://www.kicad.org/) to open the schematics/PCB. The program is free to use.
 
+![schematic and pcb example](assets/sch-pcb-example.png)
+
 ## Public Service Announcement
 
 All Hexars require **URGENT** replacement of capacitors. If done *before* they start to leak,
