@@ -18517,18 +18517,6 @@
 		)
 		(uuid "87810491-4a8b-43c2-a76f-c85647c27076")
 	)
-	(text "https://en.wikipedia.org/wiki/DX_encoding#Electrical_contacts"
-		(exclude_from_sim no)
-		(at 124.206 276.352 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-			(href "https://en.wikipedia.org/wiki/DX_encoding#Electrical_contacts")
-		)
-		(uuid "899ce8de-859c-470b-b734-a8c24c5beca5")
-	)
 	(text "DOOR SENSOR"
 		(exclude_from_sim no)
 		(at 66.294 350.52 0)
@@ -32781,7 +32769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://en.wikipedia.org/wiki/DX_encoding#Electrical_contacts"
 			(at 184.15 304.8 0)
 			(effects
 				(font
