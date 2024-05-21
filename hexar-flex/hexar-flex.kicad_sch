@@ -22546,7 +22546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR2214.pdf"
 			(at 547.37 140.97 0)
 			(effects
 				(font
@@ -26221,7 +26221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/LB8620M.pdf"
 			(at 398.78 193.04 90)
 			(effects
 				(font
@@ -27604,7 +27604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/BR93CS46.pdf"
 			(at 307.34 114.3 0)
 			(effects
 				(font
@@ -28033,7 +28033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR221x.pdf"
 			(at 45.72 307.34 0)
 			(effects
 				(font
@@ -29903,7 +29903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/LB8620M.pdf"
 			(at 398.78 241.3 90)
 			(effects
 				(font
@@ -30346,7 +30346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/XN1211.pdf"
 			(at 542.29 266.7 0)
 			(effects
 				(font
@@ -30674,7 +30674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR211x.pdf"
 			(at 378.46 114.3 0)
 			(effects
 				(font
@@ -32032,7 +32032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UN212x.pdf"
 			(at 523.24 198.12 0)
 			(effects
 				(font
@@ -32901,7 +32901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/1SS294.pdf"
 			(at 69.85 45.72 0)
 			(effects
 				(font
@@ -34328,7 +34328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/CR08AS-12A.pdf"
 			(at 420.37 123.19 0)
 			(effects
 				(font
@@ -37636,7 +37636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/1SS184.pdf"
 			(at 96.52 207.01 0)
 			(effects
 				(font
@@ -37879,7 +37879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR211x.pdf"
 			(at 548.64 303.53 0)
 			(effects
 				(font
@@ -39756,7 +39756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/LB1837M.pdf"
 			(at 403.86 290.83 0)
 			(effects
 				(font
@@ -43141,7 +43141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/XN1213.pdf"
 			(at 542.29 238.76 0)
 			(effects
 				(font
@@ -43256,7 +43256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/HQ1A4A.pdf"
 			(at 459.74 48.26 0)
 			(effects
 				(font
@@ -43751,7 +43751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR211x.pdf"
 			(at 483.87 303.53 0)
 			(effects
 				(font
@@ -44111,7 +44111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR2214.pdf"
 			(at 477.52 116.84 0)
 			(effects
 				(font
@@ -46834,7 +46834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UN212x.pdf"
 			(at 528.32 120.65 0)
 			(effects
 				(font
@@ -49677,7 +49677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/UNR211x.pdf"
 			(at 515.62 303.53 0)
 			(effects
 				(font
