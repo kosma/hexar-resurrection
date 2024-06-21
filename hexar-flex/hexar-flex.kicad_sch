@@ -4246,7 +4246,7 @@
 				)
 			)
 		)
-		(symbol "Device:D_Dual_CommonCathode_AKA"
+		(symbol "Device:D_Dual_CommonCathode_AAK"
 			(pin_names
 				(offset 0.762) hide)
 			(exclude_from_sim no)
@@ -4260,7 +4260,7 @@
 					)
 				)
 			)
-			(property "Value" "D_Dual_CommonCathode_AKA"
+			(property "Value" "D_Dual_CommonCathode_AAK"
 				(at 0 2.54 0)
 				(effects
 					(font
@@ -4286,7 +4286,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Dual diode, common cathode on pin 2"
+			(property "Description" "Dual diode, common cathode on pin 3"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4304,10 +4304,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "D_Dual_CommonCathode_AKA_0_1"
+			(symbol "D_Dual_CommonCathode_AAK_0_1"
 				(polyline
 					(pts
-						(xy 0 0) (xy 0 -2.54)
+						(xy -3.81 0) (xy 3.81 0)
 					)
 					(stroke
 						(width 0)
@@ -4319,7 +4319,7 @@
 				)
 				(polyline
 					(pts
-						(xy 3.81 0) (xy -3.81 0)
+						(xy 0 0) (xy 0 -2.54)
 					)
 					(stroke
 						(width 0)
@@ -4407,9 +4407,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "K"
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "A"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4425,9 +4425,9 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "A"
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "K"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -18670,7 +18670,7 @@
 		)
 		(uuid "f7b534a7-f9ea-41a3-9477-a5a9fcaf3549")
 	)
-	(label "P35{slash}SW?"
+	(label "P35{slash}SW_P"
 		(at 76.2 196.85 180)
 		(fields_autoplaced yes)
 		(effects
@@ -18714,7 +18714,7 @@
 		)
 		(uuid "03049060-7c6d-4737-8b88-8aca79cd44be")
 	)
-	(label "P35{slash}SW?"
+	(label "P35{slash}SW_P"
 		(at 252.73 313.69 90)
 		(fields_autoplaced yes)
 		(effects
@@ -19440,7 +19440,7 @@
 		)
 		(uuid "4585f2fb-4ec4-4a6e-a6c1-fca8b0433ba4")
 	)
-	(label "P63{slash}SW?"
+	(label "P63{slash}SW_A"
 		(at 76.2 204.47 180)
 		(fields_autoplaced yes)
 		(effects
@@ -19506,7 +19506,7 @@
 		)
 		(uuid "4ac8b5bf-c8b6-48bf-954a-429abf0d42b5")
 	)
-	(label "P74{slash}SW?"
+	(label "P74{slash}SW_M"
 		(at 76.2 201.93 180)
 		(fields_autoplaced yes)
 		(effects
@@ -19616,7 +19616,7 @@
 		)
 		(uuid "57c9dc0c-a313-4c3d-ab4c-a6876406031d")
 	)
-	(label "P74{slash}SW?"
+	(label "P74{slash}SW_M"
 		(at 110.49 261.62 90)
 		(fields_autoplaced yes)
 		(effects
@@ -20100,14 +20100,14 @@
 		)
 		(uuid "84beddcf-1596-43af-9466-609b0ebe220f")
 	)
-	(label "P35{slash}SW?"
-		(at 80.01 207.01 0)
+	(label "P35{slash}SW_P"
+		(at 110.49 214.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "84ec8b70-6bfa-4b25-857c-d5ae3666096a")
 	)
@@ -20210,7 +20210,7 @@
 		)
 		(uuid "8c325493-63a8-42bf-913d-347a8b4fbfd9")
 	)
-	(label "P63{slash}SW?"
+	(label "P63{slash}SW_A"
 		(at 96.52 261.62 90)
 		(fields_autoplaced yes)
 		(effects
@@ -20419,7 +20419,7 @@
 		)
 		(uuid "a1b0a206-6016-44a5-b9b4-9c2c17eb0484")
 	)
-	(label "P44{slash}{slash}SW?"
+	(label "P44{slash}SW?"
 		(at 124.46 261.62 90)
 		(fields_autoplaced yes)
 		(effects
@@ -20485,7 +20485,7 @@
 		)
 		(uuid "a85d3364-6802-437a-bb02-940a125d826a")
 	)
-	(label "P74{slash}SW?"
+	(label "P74{slash}SW_M"
 		(at 317.5 232.41 180)
 		(fields_autoplaced yes)
 		(effects
@@ -20584,7 +20584,7 @@
 		)
 		(uuid "b3a55430-69f0-47cf-8984-05f3899d1cd3")
 	)
-	(label "P63{slash}SW?"
+	(label "P63{slash}SW_A"
 		(at 317.5 260.35 180)
 		(fields_autoplaced yes)
 		(effects
@@ -20628,14 +20628,14 @@
 		)
 		(uuid "b8738e77-33ab-4e98-95cb-eef795ddf94e")
 	)
-	(label "P74{slash}SW?"
-		(at 110.49 214.63 180)
+	(label "P74{slash}SW_M"
+		(at 80.01 207.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "b9b0bf96-8872-4cbc-b3b0-edbd27a31384")
 	)
@@ -20661,7 +20661,7 @@
 		)
 		(uuid "bcaf3ef8-2f9d-405a-82f6-a4209d3fa9b8")
 	)
-	(label "P63{slash}SW?"
+	(label "P63{slash}SW_A"
 		(at 110.49 199.39 180)
 		(fields_autoplaced yes)
 		(effects
@@ -20980,7 +20980,7 @@
 		)
 		(uuid "e340bc93-a302-428e-9b44-925e2bc87082")
 	)
-	(label "P35{slash}SW?"
+	(label "P35{slash}SW_P"
 		(at 82.55 261.62 90)
 		(fields_autoplaced yes)
 		(effects
@@ -25426,11 +25426,10 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x10")
-		(at 48.26 207.01 0)
-		(mirror y)
+		(at 48.26 209.55 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25443,7 +25442,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x10"
+		(property "Value" "KBD-FLEX"
 			(at 48.26 193.04 0)
 			(effects
 				(font
@@ -25451,8 +25450,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 48.26 207.01 0)
+		(property "Footprint" "flex-smd:HEXAR-KBD-CONNECTOR"
+			(at 48.26 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25460,8 +25459,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 48.26 207.01 0)
+		(property "Datasheet" ""
+			(at 48.26 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25470,7 +25469,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 48.26 207.01 0)
+			(at 48.26 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37588,7 +37587,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Dual_CommonCathode_AKA")
+		(lib_id "Device:D_Dual_CommonCathode_AAK")
 		(at 96.52 207.01 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37598,7 +37597,7 @@
 		(fields_autoplaced yes)
 		(uuid "97203e64-35f0-4976-a4ac-4624aac66889")
 		(property "Reference" "D7"
-			(at 99.06 205.74 90)
+			(at 99.06 205.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37607,7 +37606,7 @@
 			)
 		)
 		(property "Value" "1SS184"
-			(at 99.06 208.28 90)
+			(at 99.06 208.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37624,7 +37623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://raw.githubusercontent.com/kosma/hexar-resurrection/main/datasheets/1SS184.pdf"
+		(property "Datasheet" "~"
 			(at 96.52 207.01 0)
 			(effects
 				(font
@@ -37633,7 +37632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual diode, common cathode on pin 3"
 			(at 96.52 207.01 0)
 			(effects
 				(font
